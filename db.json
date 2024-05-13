@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "bamba",
+      "price": "40",
+      "id": "1"
+    },
+    {
+      "name": "ice",
+      "price": "18",
+      "id": "1c54"
+    },
+    {
+      "id": "d252",
+      "name": "chocolate",
+      "price": "80"
+    },
+    {
+      "id": "b7b6",
+      "name": "snacks",
+      "price": "35"
+    },
+    {
+      "id": "067a",
+      "name": "vanila",
+      "price": "23"
+    }
+  ]
+}
